@@ -34,6 +34,14 @@ Contruction and Assembly:
 
 Circuit and Connections: 
 
+Connections are made using jumper cables that include male to male wires, male to female wires and female to female wires.
+
+1. IN1,IN2,IN3,IN4 of the motor driver were connected to the 5,4 3 and 2 digital PWMs of the Arduino UNO.
+2. The wires of the two motors were connected to the OUT1, OUT2 AND OUT3, OUT4 respectively by screwing them on the motor driver.
+3. The power pins: 5V and GND were connected to VCC and GND pins of the right IR sensor.
+4. The power pins: GND and VIN were connected to GND and VCC pins of the left IR sensor.
+5. 
+
 
 
 
